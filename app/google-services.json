@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1008983890674",
+    "firebase_url": "https://halo-ee0b7.firebaseio.com",
+    "project_id": "halo-ee0b7",
+    "storage_bucket": "halo-ee0b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008983890674:android:e40a9c001d4b9635",
+        "android_client_info": {
+          "package_name": "ikhyarpl1.smkcoding.com.halo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008983890674-uat1hlgjg2mu3ts5aosigp1l6mih5l5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxxk7kBVnPw0R0VZt-CjxUp43E5qXaDPo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
